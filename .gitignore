@@ -223,3 +223,12 @@ data/
 .DS_Store/
 */.DS_Store
 inventory.db
+
+
+# Ignore Anaconda project files
+anaconda_projects/
+
+# Ignore SQLite database files
+*.db
+*.sqlite
+*.sqlite3
